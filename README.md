@@ -35,9 +35,9 @@
 ###
 
 <div align="left">
-  <img src="<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/1d526002-ecce-4b36-8333-c034eb3918ca" height="40" alt="html logo"  />
+  <img src="https://github.com/user-attachments/assets/1d526002-ecce-4b36-8333-c034eb3918ca" height="40" alt="html logo"  />
   <img width="12" />
-  <img src=<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/eaf3be97-8f94-43fe-ab63-c25cd322724f" height="40" alt="rust logo"  />
+  <img src="https://github.com/user-attachments/assets/eaf3be97-8f94-43fe-ab63-c25cd322724f" height="40" alt="css logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo"  />
   <img width="12" />
