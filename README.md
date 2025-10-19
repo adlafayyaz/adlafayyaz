@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm adlafayyaz from Indonesia<br><br>- 🔭 I’m currently pursuing a Bachelor's degree in Information Systems at UPN Veteran Jakarta</p>
+<p align="left">I'm adlafayyaz from Indonesia<br><br>- 🔭 I’m currently pursuing a Bachelor's degree in Information Systems at UPN Veteran Jakarta<br>📚 I'm currently learning Dart</p> 
 
 ###
 
@@ -35,7 +35,7 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
+  <img src="https://cdn.jsdelivr.net/npm/svg-to-html@0.1.2/bin/cli.min.js" height="40" alt="html logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
   <img width="12" />
