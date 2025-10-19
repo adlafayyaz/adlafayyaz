@@ -10,14 +10,6 @@
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
 </div>
 
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
-</div>
-
-###
-
 <h1 align="center">Hello 👋</h1>
 
 ###
@@ -26,7 +18,7 @@
 
 ###
 
-<p align="left">I'm adlafayyaz from Indonesia<br><br>- 🔭 I’m currently pursuing a Bachelor's degree in Information Systems at UPN Veteran Jakarta<br>📚 I'm currently learning Dart</p> 
+<p align="left">I'm adlafayyaz from Indonesia<br><br>🔭 I’m currently pursuing a Bachelor's degree in Information Systems at UPN Veteran Jakarta<br>📚 I'm currently learning Dart</p> 
 
 ###
 
@@ -46,15 +38,3 @@
   <img src="https://github.com/user-attachments/assets/01d0f401-ce7d-4396-9f6c-6ae75d157fbc" height="40" alt="dart logo"  />
   <img width="12" />
 </div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
